@@ -1,5 +1,5 @@
 # 💫 About Me:
-React native Intern @WebtechnoSolutions<br>Currently learning Next.js<br>Curious about AWS architecture<br>Looking forward to contributing to open-source<br>MMA fanboy<br><br>
+React native Developer@WebtechnoSolutions<br>Currently learning Next.js<br>Curious about AWS architecture<br>Looking forward to contributing to open-source<br>MMA fanboy<br><br>
 
 
 ## 🌐 Socials:
