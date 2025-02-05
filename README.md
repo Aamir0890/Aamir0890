@@ -1,5 +1,5 @@
 # 💫 About Me:
-React native Developer@WebtechnoSolutions<br>Currently learning Next.js<br>Curious about AWS architecture<br>Looking forward to contributing to open-source<br>MMA fanboy<br><br>
+Full Stack Applciation Developer at Heart it out.<br>Looking for remote jobs for western clients as app and full-stack developer.<br>Looking forward to contributing to open-source<br>MMA fanboy<br><br>
 
 
 ## 🌐 Socials:
